@@ -14,7 +14,7 @@ Our Random Forest Classifier achieved an accuracy of 89% on the test set. When a
 To replicate or build upon our findings:
 
 # Clone this repository.
-Install dependencies from requirements.txt.
+Install dependencies from requirements.txt.  
 Explore the Jupyter notebooks to understand the modeling process.
 
 # Contributions
