@@ -4,7 +4,7 @@
 This machine learning project predicts hotel booking cancellations. Utilizing a Kaggle dataset, we explored factors such as booking details and customer requests to identify cancellation likelihood. Our model aims to help hotels optimize operations and enhance customer service.
 
 # Repository Structure
-data/: The dataset used for training and testing the models.
+data/: The dataset used for training and testing the models.  
 notebooks/: Jupyter notebooks containing exploratory data analysis and modeling.
 
 # Model Performance
